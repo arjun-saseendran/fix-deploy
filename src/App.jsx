@@ -1,9 +1,9 @@
 import './App.css'
-import Categorieslist from './Components/Categorieslist';
-import Popularitemlist from './Components/Popularitemlist';
-import Restaurantitemlists from './Components/Restaurantitemlists';
-import Topfoodlist from './Components/Topfoodlist';
-import Topiconlist from './Components/Topiconlist';
+import Categorieslist from './components/Categorieslist';
+import Popularitemlist from './components/Popularitemlist';
+import Restaurantitemlists from './components/Restaurantitemlists';
+import Topfoodlist from './components/Topfoodlist';
+import Topiconlist from './components/Topiconlist';
 
 
 

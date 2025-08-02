@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import SelectedPopularitem from "../Routes/SelectedPopularitem";
+import SelectedPopularitem from "../routes/SelectedPopularitem";
 
 
 function Popularitemlist(props) {
